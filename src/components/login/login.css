@@ -1,0 +1,38 @@
+.padre{
+    border-radius: 20px;
+    margin-top: 30%;
+
+}
+
+.principal{
+    margin:0 auto ;
+    margin-top: 25%;
+    opacity: .90;
+}
+
+.modal-content{
+    background-color: lightsteelblue;
+}
+
+
+
+.user{
+    margin-top: -60px;
+    margin-bottom: 30px;
+    width: 160px;
+    height: 160px;
+}
+
+
+
+.mail{
+    text-align: center;
+}
+.pass{
+    text-align: center;
+}
+
+label{
+    font-size: 30px;
+    color: dodgerblue;
+}

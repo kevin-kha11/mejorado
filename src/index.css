@@ -1,0 +1,19 @@
+/* :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  
+}
+
+
+body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+} */
+
+body{
+  background: url("./assets/1.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+
